@@ -1,7 +1,7 @@
 <h1>Current Residents</h1>
 <h2>Tiles (v1) w/ Sidebar - B&amp;W Image Set</h2>
 <div id="client-portal" class="v1 boxed two-col">
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221603/awards.jpg?1387233717" alt="" /></div>
 <h3>Awards<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -9,7 +9,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes. Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221604/blog.jpg?1387233724" alt="" /></div>
 <h3>Blog<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -17,7 +17,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221605/calendar-events.jpg?1387233730" alt="" /></div>
 <h3>Calendar of Events<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -25,7 +25,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221606/community-involvement.jpg?1387233737" alt="" /></div>
 <h3>Community Involvement<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -33,7 +33,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221607/concierge.jpg?1387233743" alt="" /></div>
 <h3>Concierge<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -41,7 +41,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221608/green-living.jpg?1387233750" alt="" /></div>
 <h3>Green Living<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -49,7 +49,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221609/handbook.jpg?1387233756" alt="" /></div>
 <h3>Handbook<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -57,7 +57,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221610/helpful-links.jpg?1387233763" alt="" /></div>
 <h3>Helpful Links<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -65,7 +65,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221611/office-hours.jpg?1387233769" alt="" /></div>
 <h3>Office Hours<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -73,7 +73,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221612/pay-online.jpg?1387233775" alt="" /></div>
 <h3>Pay Online<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -81,7 +81,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221613/pet-policy-cat.jpg?1387233781" alt="" /></div>
 <h3>Pet Policy - CAT<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -89,7 +89,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221614/pet-policy-dog.jpg?1387233787" alt="" /></div>
 <h3>Pet Policy - DOG<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -97,7 +97,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221615/refer-friend.jpg?1387233793" alt="" /></div>
 <h3>Refer a Friend<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -105,7 +105,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221616/suggestion-box.jpg?1387233799" alt="" /></div>
 <h3>Suggestion Box<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -113,7 +113,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221617/testimonials.jpg?1387233805" alt="" /></div>
 <h3>Testimonials - MALE<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -121,7 +121,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221618/utilities.jpg?1387233811" alt="" /></div>
 <h3>Utilities<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -129,7 +129,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221850/local-schools.jpg?1387307774" alt="" /></div>
 <h3>Local Schools<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -137,7 +137,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221851/maintenance.jpg?1387307781" alt="" /></div>
 <h3>Maintenance<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -145,7 +145,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/221852/renters-insurance.jpg?1387307788" alt="" /></div>
 <h3>Renter's Insurance<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -153,7 +153,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/222140/testimonials-female.jpg?1387401603" alt="" /></div>
 <h3>Testimonials - FEMALE<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
@@ -161,7 +161,7 @@
 <p>Chew foot hunt anything that moves and flop over inspect anything brought into the house so hunt anything that moves. Leave dead animals as gifts claw drapes.</p>
 </div>
 </div>
-<div class="article"><a href="some-link">
+<div class="article"><a href="{{ '#' | link_juice:store.id }}">
 <div class="image"><img src="http://cdn11.g5search.com/assets/222514/utilities.jpg?1387568505" alt="" /></div>
 <h3>Utilities<span class="icon">&nbsp;</span></h3>
 </a><a class="view-details" href="{{ '#' | link_juice:store.id }}">View Details</a>
